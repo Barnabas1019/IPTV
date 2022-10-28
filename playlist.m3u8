@@ -1,16 +1,19 @@
 #EXTM3U
 ## Online Stream
-#EXTINF:-1 tvg-name="M1_1" tvg-id="5901-m1" tvg-logo="http://onlinestream.live/logos/5901.png" group-title="Online Stream" catchup="vod",M1
-https://c201-node62-cdn.connectmedia.hu/1000/02c3369802c1a9eb0fc1d3bb8326aa12/635c2b2e/index.m3u8
-
-#EXTINF:-1 tvg-name="M1_2" tvg-id="5901-m1" tvg-logo="http://onlinestream.live/logos/5901.png" group-title="Online Stream" catchup="vod",M1
+#EXTINF:-1 tvg-name="M1" tvg-id="5901-m1" tvg-logo="http://onlinestream.live/logos/5901.png" group-title="Online Stream" catchup="vod",M1
 https://streaming.mytvback.com:443/stream/mx0Yxhz_J92MaDnk9uLbVw/1667010855/channel001/stream.m3u8
 
-#EXTINF:-1 tvg-name="M1_3" tvg-id="5901-m1" tvg-logo="http://onlinestream.live/logos/5901.png" group-title="Online Stream" catchup="vod",M1
-http://152.66.115.226:33391/bysid/100
+#EXTINF:-1 tvg-name="M2 / Petőfi TV_1" tvg-id="5902-m2/petofitv" tvg-logo="http://onlinestream.live/logos/5902.png" group-title="Online Stream" catchup="vod",M2 / Petőfi TV
+https://c201-node61-cdn.connectmedia.hu/1001/1f0b158edc030f7d3b3ca523a2992798/635c2e8f/index.m3u8
 
-#EXTINF:-1 tvg-name="M2 / Petőfi TV" tvg-id="5902-m2/petofitv" tvg-logo="http://onlinestream.live/logos/5902.png" group-title="Online Stream" catchup="vod",M2 / Petőfi TV
+#EXTINF:-1 tvg-name="M2 / Petőfi TV_2" tvg-id="5902-m2/petofitv" tvg-logo="http://onlinestream.live/logos/5902.png" group-title="Online Stream" catchup="vod",M2 / Petőfi TV
+https://streaming.mytvback.com:443/stream/Ytoyz1D7beKFEgAhZDEtLg/1667000042/channel002/stream.m3u8
+
+#EXTINF:-1 tvg-name="M2 / Petőfi TV_3" tvg-id="5902-m2/petofitv" tvg-logo="http://onlinestream.live/logos/5902.png" group-title="Online Stream" catchup="vod",M2 / Petőfi TV
 http://149.62.177.140:8005/play/a01b/index.m3u8
+
+#EXTINF:-1 tvg-name="M2 / Petőfi TV_4" tvg-id="5902-m2/petofitv" tvg-logo="http://onlinestream.live/logos/5902.png" group-title="Online Stream" catchup="vod",M2 / Petőfi TV
+http://152.66.115.226:33390/bysid/200</location
 
 #EXTINF:-1 tvg-name="M3" tvg-id="5931-m3" tvg-logo="http://onlinestream.live/logos/5931.png" group-title="Online Stream" catchup="vod",M3
 https://player.mediaklikk.org:443/m3/00gMyETO5gjM.m3u8
