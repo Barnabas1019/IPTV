@@ -16,16 +16,7 @@ https://streaming.mytvback.com:443/channel006/stream.m3u8
 https://streaming.mytvback.com:443/stream/S6SoYBcI5AyQOkkBM6Prlg/1667014487/channel003/stream.m3u8
 
 #EXTINF:-1 tvg-name="Duna World / M4 Sport+" tvg-id="5906-dunaworld/m4sport+" tvg-logo="http://onlinestream.live/logos/5906.png" group-title="Online Stream" catchup="vod",Duna World / M4 Sport+
-https://c401-node61-cdn.connectmedia.hu/1003/4bb578eb16ce5fefdb57da592c1a7d48/635c343f/index.m3u8
-
-#EXTINF:-1 tvg-name="Duna World / M4 Sport+" tvg-id="5906-dunaworld/m4sport+" tvg-logo="http://onlinestream.live/logos/5906.png" group-title="Online Stream" catchup="vod",Duna World / M4 Sport+
-https://c401-node62-cdn.connectmedia.hu/1003/4ef9b8f4ca39e2e992d018ec68cd09fb/635c37c4/index.m3u8
-
-#EXTINF:-1 tvg-name="Duna World / M4 Sport+" tvg-id="5906-dunaworld/m4sport+" tvg-logo="http://onlinestream.live/logos/5906.png" group-title="Online Stream" catchup="vod",Duna World / M4 Sport+
 https://streaming.mytvback.com:443/stream/SOGSy10Gu7iqfZaL34QFrw/1667014468/channel004/stream.m3u8
-
-#EXTINF:-1 tvg-name="Duna World / M4 Sport+" tvg-id="5906-dunaworld/m4sport+" tvg-logo="http://onlinestream.live/logos/5906.png" group-title="Online Stream" catchup="vod",Duna World / M4 Sport+
-http://152.66.115.226:33391/bysid/103
 
 #EXTINF:-1 tvg-name="TV2" tvg-id="6143-tv2" tvg-logo="http://onlinestream.live/logos/6143.png" group-title="Online Stream" catchup="vod",TV2
 http://152.66.115.226:33390/bysid/202
@@ -54,14 +45,11 @@ https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:-1 tvg-name="Sorozat+" tvg-id="6149-sorozat+" tvg-logo="http://onlinestream.live/logos/6149.png" group-title="Online Stream" catchup="vod",Sorozat+
 https://stream.y5.hu:443/stream/stream_sorozatp/stream.m3u8
 
-#EXTINF:-1 tvg-name="ATV" tvg-id="4739-atv" tvg-logo="http://onlinestream.live/logos/4739.png" group-title="Online Stream" catchup="vod",ATV
-https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Hír TV" tvg-id="4740-hirtv" tvg-logo="http://onlinestream.live/logos/4740.png" group-title="Online Stream" catchup="vod",Hír TV
-https://player.mediaklikk.org:443/hirtv/00gMyETO5gjM.m3u8
-
 #EXTINF:-1 tvg-name="Izaura TV" tvg-id="6163-izauratv" tvg-logo="http://onlinestream.live/logos/6163.png" group-title="Online Stream" catchup="vod",Izaura TV
 http://213.81.201.113:8082/bysid/31223
+
+#EXTINF:-1 tvg-name="Izaura TV" tvg-id="6163-izauratv" tvg-logo="http://onlinestream.live/logos/6163.png" group-title="Online Stream" catchup="vod",Izaura TV
+https://streaming.mytvback.com:443/stream/bm2gqZ0tC_T9sOIyyXKOkg/1667014474/channel040/stream.m3u8
 
 #EXTINF:-1 tvg-name="Fix TV" tvg-id="1833-fixtv" tvg-logo="http://onlinestream.live/logos/1833.png" group-title="Online Stream" catchup="vod",Fix TV
 https://fixhd.tv:8082/fix/1080i/playlist.m3u8
