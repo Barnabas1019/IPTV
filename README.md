@@ -1,5 +1,5 @@
 # IPTV
-Magyar IPTV (m3u3)
+Magyar IPTV (m3u8)
 
 URL1: https://raw.githubusercontent.com/Barnabas1019/IPTV/main/playlist.m3u8
 
