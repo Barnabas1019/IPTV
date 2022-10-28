@@ -1,6 +1,6 @@
 #EXTM3U
 ## Online Stream
-#EXTINF:-1 tvg-name="M1" tvg-id="5901-m1" tvg-logo="http://onlinestream.live/logos/5901.png" group-title="Online Stream" catchup="vod",M1
+#EXTINF:-1 tvg-name="M1 HD" tvg-id="5901-m1" tvg-logo="http://onlinestream.live/logos/5901.png" group-title="Online Stream" catchup="vod",M1
 https://streaming.mytvback.com:443/stream/mx0Yxhz_J92MaDnk9uLbVw/1667010855/channel001/stream.m3u8
 
 #EXTINF:-1 tvg-name="M2 / Petőfi TV" tvg-id="5902-m2/petofitv" tvg-logo="http://onlinestream.live/logos/5902.png" group-title="Online Stream" catchup="vod",M2 / Petőfi TV
