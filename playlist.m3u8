@@ -7,28 +7,16 @@ https://streaming.mytvback.com:443/stream/mx0Yxhz_J92MaDnk9uLbVw/1667010855/chan
 https://streaming.mytvback.com:443/stream/Ytoyz1D7beKFEgAhZDEtLg/1667000042/channel002/stream.m3u8
 
 #EXTINF:-1 tvg-name="M4 Sport" tvg-id="5903-m4sport" tvg-logo="http://onlinestream.live/logos/5903.png" group-title="Online Stream" catchup="vod",M4 Sport
-https://c202-node61-cdn.connectmedia.hu/1004/97881cdcc13ff131dbeaad3920a9d779/635c2ddc/index.m3u8
-
-#EXTINF:-1 tvg-name="M4 Sport" tvg-id="5903-m4sport" tvg-logo="http://onlinestream.live/logos/5903.png" group-title="Online Stream" catchup="vod",M4 Sport
-https://c202-node61-cdn.connectmedia.hu/3032/93b9eda2aec291021b127cc95c0fea7b/635c315c/index.m3u8
-
-#EXTINF:-1 tvg-name="M4 Sport" tvg-id="5903-m4sport" tvg-logo="http://onlinestream.live/logos/5903.png" group-title="Online Stream" catchup="vod",M4 Sport
 https://streaming.mytvback.com:443/stream/2FiyShdpAzbA-J7fjuN-qw/1667014500/channel005/stream.m3u8
-
-#EXTINF:-1 tvg-name="M4 Sport" tvg-id="5903-m4sport" tvg-logo="http://onlinestream.live/logos/5903.png" group-title="Online Stream" catchup="vod",M4 Sport
-http://152.66.115.226:33391/bysid/101
 
 #EXTINF:-1 tvg-name="M5" tvg-id="5904-m5" tvg-logo="http://onlinestream.live/logos/5904.png" group-title="Online Stream" catchup="vod",M5
 https://streaming.mytvback.com:443/channel006/stream.m3u8
 
 #EXTINF:-1 tvg-name="Duna" tvg-id="5905-duna" tvg-logo="http://onlinestream.live/logos/5905.png" group-title="Online Stream" catchup="vod",Duna
-https://redirect.onlinestream.live/mgredir.m3u8?channel=66&ext=.m3u8
+https://streaming.mytvback.com:443/stream/S6SoYBcI5AyQOkkBM6Prlg/1667014487/channel003/stream.m3u8
 
 #EXTINF:-1 tvg-name="Duna World / M4 Sport+" tvg-id="5906-dunaworld/m4sport+" tvg-logo="http://onlinestream.live/logos/5906.png" group-title="Online Stream" catchup="vod",Duna World / M4 Sport+
-http://152.66.115.226:33391/bysid/103
-
-#EXTINF:-1 tvg-name="MTVA időszakos közvetítések" tvg-id="5907-mtvaidoszakoskozvetitesek" tvg-logo="http://onlinestream.live/logos/5907.png" group-title="Online Stream" catchup="vod",MTVA időszakos közvetítések
-://
+https://streaming.mytvback.com:443/stream/SOGSy10Gu7iqfZaL34QFrw/1667014468/channel004/stream.m3u8
 
 #EXTINF:-1 tvg-name="TV2" tvg-id="6143-tv2" tvg-logo="http://onlinestream.live/logos/6143.png" group-title="Online Stream" catchup="vod",TV2
 http://152.66.115.226:33390/bysid/202
