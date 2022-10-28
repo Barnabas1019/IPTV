@@ -16,7 +16,16 @@ https://streaming.mytvback.com:443/channel006/stream.m3u8
 https://streaming.mytvback.com:443/stream/S6SoYBcI5AyQOkkBM6Prlg/1667014487/channel003/stream.m3u8
 
 #EXTINF:-1 tvg-name="Duna World / M4 Sport+" tvg-id="5906-dunaworld/m4sport+" tvg-logo="http://onlinestream.live/logos/5906.png" group-title="Online Stream" catchup="vod",Duna World / M4 Sport+
+https://c401-node61-cdn.connectmedia.hu/1003/4bb578eb16ce5fefdb57da592c1a7d48/635c343f/index.m3u8
+
+#EXTINF:-1 tvg-name="Duna World / M4 Sport+" tvg-id="5906-dunaworld/m4sport+" tvg-logo="http://onlinestream.live/logos/5906.png" group-title="Online Stream" catchup="vod",Duna World / M4 Sport+
+https://c401-node62-cdn.connectmedia.hu/1003/4ef9b8f4ca39e2e992d018ec68cd09fb/635c37c4/index.m3u8
+
+#EXTINF:-1 tvg-name="Duna World / M4 Sport+" tvg-id="5906-dunaworld/m4sport+" tvg-logo="http://onlinestream.live/logos/5906.png" group-title="Online Stream" catchup="vod",Duna World / M4 Sport+
 https://streaming.mytvback.com:443/stream/SOGSy10Gu7iqfZaL34QFrw/1667014468/channel004/stream.m3u8
+
+#EXTINF:-1 tvg-name="Duna World / M4 Sport+" tvg-id="5906-dunaworld/m4sport+" tvg-logo="http://onlinestream.live/logos/5906.png" group-title="Online Stream" catchup="vod",Duna World / M4 Sport+
+http://152.66.115.226:33391/bysid/103
 
 #EXTINF:-1 tvg-name="TV2" tvg-id="6143-tv2" tvg-logo="http://onlinestream.live/logos/6143.png" group-title="Online Stream" catchup="vod",TV2
 http://152.66.115.226:33390/bysid/202
