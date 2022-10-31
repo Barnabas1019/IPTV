@@ -1,0 +1,9 @@
+#EXTINF:-1 tvg-name="TV2 HD" tvg-id="6143-tv2" tvg-logo="http://onlinestream.live/logos/6143.png" group-title="Online Stream" catchup="vod",TV2
+http://152.66.115.226:33390/bysid/202
+
+#EXTINF:-1 tvg-name="FEM3" tvg-id="6455-fem3" tvg-logo="http://onlinestream.live/logos/6455.png" group-title="Online Stream" catchup="vod",FEM3
+http://149.62.177.140:8005/play/a01l/index.m3u8
+
+
+#EXTINF:-1 tvg-name="Izaura TV" tvg-id="6163-izauratv" tvg-logo="http://onlinestream.live/logos/6163.png" group-title="Online Stream" catchup="vod",Izaura TV
+http://152.66.115.226:33390/bysid/204
