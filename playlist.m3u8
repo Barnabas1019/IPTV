@@ -1,29 +1,5 @@
 #EXTM3U
 ## Online Stream
-#EXTINF:-1 tvg-name="M1 HD" tvg-id="5901-m1" tvg-logo="http://onlinestream.live/logos/5901.png" group-title="Online Stream" catchup="vod",M1
-https://152.66.115.226:33391/bysid/121
-
-#EXTINF:-1 tvg-name="M2 / Petőfi HD" tvg-id="5902-m2/petofitv" tvg-logo="http://onlinestream.live/logos/5902.png" group-title="Online Stream" catchup="vod",M2 / Petőfi TV
-https://streaming.mytvback.com:443/stream/Ytoyz1D7beKFEgAhZDEtLg/1667000042/channel002/stream.m3u8
-
-#EXTINF:-1 tvg-name="M4 Sport HD" tvg-id="5903-m4sport" tvg-logo="http://onlinestream.live/logos/5903.png" group-title="Online Stream" catchup="vod",M4 Sport
-https://streaming.mytvback.com:443/stream/2FiyShdpAzbA-J7fjuN-qw/1667014500/channel005/stream.m3u8
-
-#EXTINF:-1 tvg-name="M5 HD" tvg-id="5904-m5" tvg-logo="http://onlinestream.live/logos/5904.png" group-title="Online Stream" catchup="vod",M5
-https://streaming.mytvback.com:443/channel006/stream.m3u8
-
-#EXTINF:-1 tvg-name="Duna HD" tvg-id="5905-duna" tvg-logo="http://onlinestream.live/logos/5905.png" group-title="Online Stream" catchup="vod",Duna
-https://streaming.mytvback.com:443/stream/S6SoYBcI5AyQOkkBM6Prlg/1667014487/channel003/stream.m3u8
-
-#EXTINF:-1 tvg-name="Duna World HD" tvg-id="5906-dunaworld/m4sport+" tvg-logo="http://onlinestream.live/logos/5906.png" group-title="Online Stream" catchup="vod",Duna World / M4 Sport+
-https://streaming.mytvback.com:443/stream/SOGSy10Gu7iqfZaL34QFrw/1667014468/channel004/stream.m3u8
-
-#EXTINF:-1 tvg-name="TV2 HD" tvg-id="6143-tv2" tvg-logo="http://onlinestream.live/logos/6143.png" group-title="Online Stream" catchup="vod",TV2
-http://152.66.115.226:33390/bysid/202
-
-#EXTINF:-1 tvg-name="FEM3" tvg-id="6455-fem3" tvg-logo="http://onlinestream.live/logos/6455.png" group-title="Online Stream" catchup="vod",FEM3
-http://149.62.177.140:8005/play/a01l/index.m3u8
-
 #EXTINF:-1 tvg-name="RTL Klub HD" tvg-id="6141-rtl" tvg-logo="http://onlinestream.live/logos/6141.png" group-title="Online Stream" catchup="vod",RTL
 https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
 
@@ -44,6 +20,12 @@ https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
 
 #EXTINF:-1 tvg-name="Sorozat +" tvg-id="6149-sorozat+" tvg-logo="http://onlinestream.live/logos/6149.png" group-title="Online Stream" catchup="vod",Sorozat+
 https://stream.y5.hu:443/stream/stream_sorozatp/stream.m3u8
+
+#EXTINF:-1 tvg-name="TV2 HD" tvg-id="6143-tv2" tvg-logo="http://onlinestream.live/logos/6143.png" group-title="Online Stream" catchup="vod",TV2
+http://152.66.115.226:33390/bysid/202
+
+#EXTINF:-1 tvg-name="FEM3" tvg-id="6455-fem3" tvg-logo="http://onlinestream.live/logos/6455.png" group-title="Online Stream" catchup="vod",FEM3
+http://149.62.177.140:8005/play/a01l/index.m3u8
 
 #EXTINF:-1 tvg-name="Izaura TV" tvg-id="6163-izauratv" tvg-logo="http://onlinestream.live/logos/6163.png" group-title="Online Stream" catchup="vod",Izaura TV
 http://152.66.115.226:33390/bysid/204
